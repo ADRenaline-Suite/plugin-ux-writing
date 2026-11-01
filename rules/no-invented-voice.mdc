@@ -1,0 +1,14 @@
+---
+description: Copy follows the product's style guide and the languages it named. The layout and the audit stay in their plugins.
+alwaysApply: true
+---
+
+# No invented voice
+
+ISO 24495-1:2023 (plain language) and the GOV.UK content design guide are the floor. A product style guide wins when it exists.
+
+An error says what happened and how to fix it (GOV.UK error message). It does not say please, sorry, invalid, or oops. It does not use color as the only signal. Eligibility and permission are not field errors; they are a page that says what to do next.
+
+When the product names languages, one key has one entry per language. Spanish and English are the pair only when the product, or the person this turn, named that pair. A guide that conflicts with the product's language rule loses.
+
+Personal brand is a separate skill. It is not the voice of the interface. Marketing pages are not this plugin.

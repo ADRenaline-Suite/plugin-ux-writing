@@ -1,0 +1,16 @@
+{
+  "name": "plugin-ux-writing",
+  "owner": {
+    "name": "ADRenaline Suite"
+  },
+  "plugins": [
+    {
+      "name": "plugin-ux-writing",
+      "source": "./",
+      "description": "Interface copy in the product's languages, plus the voice and the glossary those strings share."
+    }
+  ],
+  "metadata": {
+    "description": "Marketplace with the UX Writing plugin."
+  }
+}

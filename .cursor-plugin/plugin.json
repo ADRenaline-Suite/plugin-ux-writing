@@ -1,0 +1,17 @@
+{
+  "name": "plugin-ux-writing",
+  "displayName": "UX Writing",
+  "description": "Interface copy in the product's languages, plus the voice and the glossary those strings share.",
+  "version": "0.0.1",
+  "author": {
+    "name": "d-mente"
+  },
+  "license": "MIT",
+  "keywords": [
+    "microcopy",
+    "plain-language",
+    "i18n",
+    "voice"
+  ],
+  "repository": "https://github.com/ADRenaline-Suite/plugin-ux-writing"
+}
